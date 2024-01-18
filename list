@@ -4,4 +4,14 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443?encryption=none&se
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@188.114.96.3:80?encryption=none&security=none&type=ws&host=mahi.kosnanatfilterchi.eu.org&path=path%2Ftelegram%40v2ray_alpha%2F%3Fed%3D2048#%F0%9F%87%B3%F0%9F%87%B1%2B14%20%5B%D9%88%D8%A7%DB%8C%20%D9%81%D8%A7%DB%8C%5D
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@198.41.202.5:80?encryption=none&security=none&type=ws&host=mahi.kosnanatfilterchi.eu.org&path=%2F%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B8%2B3%20%5B%D9%88%D8%A7%DB%8C%20%D9%81%D8%A7%DB%8C%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#%F0%9F%87%A9%F0%9F%87%AA%2B35%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84
-vless://b31c0648-4088-4e56-d94e-f62674f6fde1@173.245.59.100:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=freakv32.tm-online.xyz#%F0%9F%87%A9%F0%9F%87%AA+%40FreakConfig
+vless://Telegram-id-v2ray_alpha@serv-7.alpha4.top:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=Telegram-id: @v2ray_alpha&sni=usa1-panel.alpha2.top#USA+1+%F0%9F%87%BA%F0%9F%87%B8+%40V2ray_Alpha
+
+vless://Telegram-id-v2ray_alpha@serv-2.alpha4.top:2053?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Telegram-id: @v2ray_alpha&sni=usa1-panel.alpha2.top#USA+2+%F0%9F%87%BA%F0%9F%87%B8+%40V2ray_Alpha
+
+vless://Telegram-id-v2ray_alpha@serv-8.alpha4.top:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=Telegram-id: @v2ray_alpha&sni=usa1-panel.alpha2.top#USA+3+%F0%9F%87%BA%F0%9F%87%B8+%40V2ray_Alpha
+
+vless://Telegram-id-v2ray_alpha@serv-4.alpha4.top:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Telegram-id: @v2ray_alpha&sni=usa1-panel.alpha2.top#USA+4+%F0%9F%87%BA%F0%9F%87%B8+%40V2ray_Alpha
+
+vless://Telegram-id-v2ray_alpha@serv-5.alpha4.top:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Telegram-id: @v2ray_alpha&sni=usa1-panel.alpha2.top#USA+5+%F0%9F%87%BA%F0%9F%87%B8+%40V2ray_Alpha
+
+vless://Telegram-id-v2ray_alpha@serv-6.alpha4.top:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Telegram-id: @v2ray_alpha&sni=usa1-panel.alpha2.top#USA+6+%F0%9F%87%BA%F0%9F%87%B8+%40V2ray_Alpha
